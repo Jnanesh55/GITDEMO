@@ -1,1 +1,1 @@
-git status checking
+swsvy sh   git status checking
